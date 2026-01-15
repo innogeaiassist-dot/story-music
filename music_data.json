@@ -1,0 +1,24 @@
+{
+  "all": [
+    {
+      "id": "romantic_01",
+      "title": "celebration",
+      "artist": "Artist Name",
+      "category": "romantic",
+      "duration": "0:30",
+      "url": "https://innogeaiassist-dot.github.io/story-music/music/celebration/Epic Electric Timer.mp3.mp3"
+    }
+  ],
+  "categories": {
+    "romantic": [
+      {
+      "id": "romantic_01",
+      "title": "celebration",
+      "artist": "Artist Name",
+      "category": "romantic",
+      "duration": "0:30",
+      "url": "https://innogeaiassist-dot.github.io/story-music/music/celebration/Epic Electric Timer.mp3.mp3"
+      }
+    ]
+  }
+}
