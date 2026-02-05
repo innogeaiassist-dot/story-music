@@ -1,0 +1,23 @@
+[
+  {
+    "trackName": "King",
+    "artistName": "UB40",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/59/88/9f/59889f8f-9f45-b904-6ec6-d19bd05aa717/00077778826156.rgb.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7c/2e/08/7c2e0800-bae5-26f8-7979-063b4ce9be82/mzaf_9806219656668143487.plus.aac.p.m4a",
+    "genre": "Reggae"
+  },
+  {
+    "trackName": "King (2010 Remaster)",
+    "artistName": "UB40",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/fe/b9/4e/feb94e6b-eb5f-7879-fcc4-3af1e8276081/05099991776358.rgb.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/58/7b/34/587b3436-ee56-e6e0-4105-550e6412198f/mzaf_4770194807266767269.plus.aac.p.m4a",
+    "genre": "Reggae"
+  },
+  {
+    "trackName": "Tiki Shack, Madison",
+    "artistName": "Bad Kidz",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/44/88/78/44887808-d1d7-fbb3-dec8-fb58615b8cf9/5054316650010_cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/13/0a/be/130abedb-d1b0-0a81-8cf1-dc03cc9b50ed/mzaf_6128134242956106049.plus.aac.p.m4a",
+    "genre": "Reggae"
+  }
+]

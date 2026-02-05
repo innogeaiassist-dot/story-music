@@ -1,0 +1,611 @@
+[
+  {
+    "trackName": "Issa Jatt",
+    "artistName": "Sidhu Moose Wala & Sunny Malton",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cb/81/f6/cb81f6d3-0eb0-f9b2-c793-0aab9c0445e0/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/29/e0/d5/29e0d5eb-5e6e-275f-5b11-1b56e59f5ba6/mzaf_1369252382936294743.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Gandhi Rap",
+    "artistName": "Avadhoot Gupte, A.R. Rahman & Sameer Samant",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/88/f8/e388f809-b9cd-668d-e365-fa4ad590ec02/820200140180.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/c0/22/8bc022fe-928c-599d-f060-90510d43fdd6/mzaf_16185091964542545850.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Hi Jawani Kacchi",
+    "artistName": "Bela Shende, A.R. Rahman & Sameer Samant",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/88/f8/e388f809-b9cd-668d-e365-fa4ad590ec02/820200140180.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/3c/3f/1b3c3f6e-11f3-a9d5-e9dc-9e4d9a4a4d2f/mzaf_1348654682555769631.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Kiranam",
+    "artistName": "Abhilash Venkitachalam, A.R. Rahman & Vinayak Sasikumar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/99/cb/be99cb1b-b6bd-9b5e-a6a5-170b86c7586f/820200186836.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/e6/0f/85e60fed-496a-9524-55b4-29282a59f429/mzaf_17475177593923671094.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Gandhi Rap",
+    "artistName": "Bharath K Rajesh, A.R. Rahman & Vinayak Sasikumar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/99/cb/be99cb1b-b6bd-9b5e-a6a5-170b86c7586f/820200186836.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/9d/12/9c9d12a7-e794-b6e9-9df7-50816cd8bd91/mzaf_246636155339268990.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Soneri Kirane",
+    "artistName": "Rahul Deshpande, A.R. Rahman & Sameer Samant",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/88/f8/e388f809-b9cd-668d-e365-fa4ad590ec02/820200140180.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/97/f3/da97f303-25a1-7715-e1e7-18cfa6a2a751/mzaf_13582300126319347468.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Kallam Kallam",
+    "artistName": "Sruthy Sivadas, A.R. Rahman & Vinayak Sasikumar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/99/cb/be99cb1b-b6bd-9b5e-a6a5-170b86c7586f/820200186836.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/30/8c/b7308c34-4817-b14b-3480-68d7356e95e8/mzaf_13096285318471031434.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Jara Jara Man Khulavte",
+    "artistName": "Anandi Joshi, Abhay Jodhpurkar, A.R. Rahman & Sameer Samant",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/88/f8/e388f809-b9cd-668d-e365-fa4ad590ec02/820200140180.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/d2/43/5dd2434c-06dd-745a-6fb1-63da0ad1c3e8/mzaf_14347934210014157230.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Angai",
+    "artistName": "Abhay Jodhpurkar, Khatija Rahman, A.R. Rahman & Sameer Samant",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/88/f8/e388f809-b9cd-668d-e365-fa4ad590ec02/820200140180.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/5d/aa/4b5daa41-9d32-1db3-aaeb-88bd4ce5aad1/mzaf_3467384954651390371.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Shubharatri Than Maalakhaye",
+    "artistName": "Jithin Raj, Khatija Rahman, A.R. Rahman & Vinayak Sasikumar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/99/cb/be99cb1b-b6bd-9b5e-a6a5-170b86c7586f/820200186836.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/b8/0c/8db80c5f-592f-7afd-3e54-5223ea4c1a8f/mzaf_152708196039786480.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Orey Nila",
+    "artistName": "Yadu Krishnan K, Sivaangi Krishnakumar, A.R. Rahman & Vinayak Sasikumar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/99/cb/be99cb1b-b6bd-9b5e-a6a5-170b86c7586f/820200186836.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/2f/8b/2b2f8b65-fb82-8319-fab0-0786d7f91e4c/mzaf_1492850906303133247.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Aa Jaana",
+    "artistName": "Darshan Raval & Prakriti Kakar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fa/00/87/fa00870a-8922-2377-5979-4db1c0e2681b/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cd/58/9a/cd589a17-8f10-ca21-d633-368c4fa7a40f/mzaf_194142343885678573.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Ishq Da Dariyaa",
+    "artistName": "Stebin Ben",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/31/81/ad3181ed-7ca3-7d40-48d3-14782facac25/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/ee/a6/a0eea668-7d89-3a53-1676-1a3fccfbe93f/mzaf_17231520452056622048.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Dil",
+    "artistName": "Gurinder Gill",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/48/45/3b484527-3fc0-0885-b16d-8fffbedb8bf4/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/67/95/15/67951530-2a49-70ed-913b-4e08a27149b2/mzaf_1784809882414221121.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Teri Marji (feat. Nimar Gill)",
+    "artistName": "Gurinder Punni",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/56/70/0f567048-af19-d9bc-1a4f-f07159a4c135/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b9/d2/ec/b9d2ecc6-a931-f4dc-1501-196a5b821bb7/mzaf_11842821313380635546.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Trending Nakhra",
+    "artistName": "Amrit Maan",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/47/3d/32473dea-68a6-e595-a299-bee8000e9cb5/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/3e/bc/593ebc2e-2b34-c7b9-112e-fc93a937a4ed/mzaf_5162646719401483040.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Detail",
+    "artistName": "Amrit Maan",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/25/30/cf/2530cff6-6f2f-e4b3-98f1-6915d8176bc4/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/8b/e8/99/8be899ba-69bb-de73-8be5-de26bde02b18/mzaf_18228867056649729202.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Combination",
+    "artistName": "Amrit Maan & Dr Zeus",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/96/8b/74/968b740e-81ec-7ed5-fbe1-fdcaab5f6d86/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ac/02/2c/ac022c6a-6264-2224-9bc6-86e707256c3d/mzaf_2201002903711274247.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "My Moon",
+    "artistName": "Amrit Maan",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/2c/81/352c8159-e670-668d-1cbc-a9e9cc0a8f35/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/44/bc/93/44bc93a6-52f0-a538-a78a-809873461c22/mzaf_2447032495350883907.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "By Birth",
+    "artistName": "Amrit Maan",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/20/b1/3020b134-029a-e724-e3df-75e76213a8ed/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/00/b9/90/00b990bb-56ea-a08a-874c-ae19a7e5c671/mzaf_16380836527866213137.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Baapu",
+    "artistName": "Amrit Maan",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/23/4b/18/234b18bd-7748-1090-92e4-f1f29d919179/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/44/aa/3e/44aa3ea3-4d52-1163-0ea1-515a27e7ea06/mzaf_12724626713071014854.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Hanji Hanji",
+    "artistName": "Amrit Maan & The PropheC",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/38/d3/ce/38d3ce91-af17-382c-e17a-12dff16b6e26/3617051530904_1_01.jpg/100x100bb.jpg",
+    "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video112/v4/69/28/05/6928055d-9cc0-53fa-f8e9-2036ff2ed0d9/mzvf_7724359924597171196.1920w.h264lc.U.p.m4v",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Na Na",
+    "artistName": "Mickey Singh & Jonita Gandhi",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c4/f2/ad/c4f2ad4a-d490-3ae9-22e4-953d76365e4e/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/72/19/dc/7219dc17-7427-4bf8-386a-fa9872202d97/mzaf_18028776030580312255.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Peer Vi Tu (feat. Mohan Kannan & Shahzan Mujeeb)",
+    "artistName": "Harshdeep Kaur",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c0/ca/a9/c0caa912-f628-3a00-0b64-3c1549909c59/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e4/84/37/e48437f7-a5bd-cc38-2f37-2df45bbe9ce9/mzaf_8354412269986929487.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Biakul Jiyara (feat. Shahzaman Ali Khan)",
+    "artistName": "Rahat Fateh Ali Khan",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/76/6d/ba766dc2-12d8-00d1-4930-77e53a490e4b/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/49/04/0b490412-56db-bf70-5c2f-36062cc3ecc9/mzaf_965094131805540406.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "In Love",
+    "artistName": "Mickey Singh & Asim Azhar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/21/93/4c/21934c4a-e326-2985-93bb-6df43dafb6d7/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/7f/89/39/7f893988-e3a0-2c97-bd29-5e8e689094d0/mzaf_16575318260658210161.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "FIRST LOVE",
+    "artistName": "Garry Sandhu & Josh Sidhu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/12/2e/18122e25-577d-ce99-6ce5-6a44bcf6ee20/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/77/5d/eb775d9d-390a-60e1-42cf-82f0635c71b4/mzaf_1995952265677056373.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Feelinga",
+    "artistName": "Garry Sandhu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/29/b0/bc/29b0bc0b-b938-7d27-bec9-8f3f34fbef55/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/44/bb/f744bbdc-d741-8984-11db-ad04c182f13e/mzaf_7642100120151205051.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Yeh Baby",
+    "artistName": "Garry Sandhu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/4d/d1/3c4dd1c3-a620-a5da-7fcd-4046fd61ca0e/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/da/4a/8eda4adc-55be-dea2-5dbe-ffc9a9077a4f/mzaf_13799573286506291120.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Minna Minna",
+    "artistName": "Garry Sandhu & Josh Sidhu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e6/e7/d3/e6e7d383-bcb6-8eb7-ec43-11421be49380/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9a/84/a6/9a84a627-017c-565a-6c5e-2b940ba8041c/mzaf_17221865050575620128.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Ambran De Taare",
+    "artistName": "Garry Sandhu & Rahul Sathu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/e7/d0/31e7d093-14e8-ada6-237d-06bcd2ec8331/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/20/83/c4/2083c4cc-ff1b-3ca4-ac24-88159c8955e2/mzaf_15140282930661316560.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Like You (feat. Loco Ink) [Tere Jaisi]",
+    "artistName": "Garry Sandhu & Rahul Sathu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e9/45/e7/e945e743-206f-8782-a1f2-8c6dffe2dd75/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/9e/4a/449e4ad0-750d-07ac-7bb7-cb66e690c1fc/mzaf_18293560192906496235.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Morniye",
+    "artistName": "Garry Sandhu, Mani Longia & Josh Sidhu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/70/6f/55706f2e-f29f-c6ca-30e0-cc44e640ef44/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/a3/cf/72a3cfbb-d07c-e12b-6000-8149cbe2d162/mzaf_8715183435980284647.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Kassam",
+    "artistName": "Garry Sandhu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/d1/ae/6bd1aeee-062b-4455-a9c0-5c2e349ae443/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/40/82/74/4082741f-1229-7312-eea3-3c07236808c5/mzaf_11073510245698550396.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Nachdi (feat. Garry Sandhu)",
+    "artistName": "G. Khan",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f4/e7/80/f4e78016-2ced-ca8e-7f10-e9b2b5406450/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/93/aa/9793aa9d-01bd-2601-8fb8-54a34e2d2b23/mzaf_14835783510688807621.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Coming Home (feat. Naseebo Lal)",
+    "artistName": "Garry Sandhu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/17/a5/fb17a5bb-2c55-887d-6466-d62d1a269adb/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/aa/12/80/aa1280f4-9b61-1e84-5eeb-89e64efa5f36/mzaf_12228781985297139239.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Lucky",
+    "artistName": "Garry Sandhu, Ryan Sandhu & DADDY BEATS",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/bc/3b/21bc3ba5-cf22-3241-7fa2-99b44c0d660e/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/50/04/945004c2-1104-5ae1-da1d-652e10f73307/mzaf_8297499434704290625.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Bottle",
+    "artistName": "Garry Sandhu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ef/05/71/ef057197-a838-c276-22d8-2fddc0d08cee/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/fb/98/68fb9822-e489-c4c5-7485-01149c7525cb/mzaf_14873031799419191141.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Eid",
+    "artistName": "Garry Sandhu & Asim Riaz",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/70/6f/55706f2e-f29f-c6ca-30e0-cc44e640ef44/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/24/03/cb2403e9-c25a-42d0-bcf4-85234073817a/mzaf_14366565105809543248.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Yeh Baby (Refix Version)",
+    "artistName": "Garry Sandhu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/84/fa/25/84fa251c-b27a-21c4-14d3-c7b2fdacee6c/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3e/5b/ec/3e5becd4-7d5e-df77-cf03-f6efa4843ec5/mzaf_16806046963967498554.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "WHIPZ",
+    "artistName": "Garry Sandhu & Josh Sidhu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/1d/09/741d09dc-69bf-7873-0318-90e28c36eaff/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ba/20/13/ba201338-bd7c-3c07-553b-3c5cd0f59475/mzaf_13801551128805774767.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Hustla",
+    "artistName": "Garry Sandhu & Sultaan",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/70/6f/55706f2e-f29f-c6ca-30e0-cc44e640ef44/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/57/3d/75/573d75dd-18c5-859f-5798-437c6cfd5ec7/mzaf_3036939012913664880.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "2 Asle",
+    "artistName": "Navaan Sandhu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/72/17/2b/72172bff-879a-4876-f686-534827d5e1f8/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/4f/10/e44f1019-efb1-bdde-1dca-af052b4b3b39/mzaf_4107448629234704373.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Taaz",
+    "artistName": "Navaan Sandhu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9f/97/e8/9f97e8ac-f43e-ea4a-ac89-1f157871e0d6/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/26/50/3c/26503c91-e7fd-333c-87ef-d340c2deccfd/mzaf_17602764673425189937.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Tareefan",
+    "artistName": "Jordan Sandhu & Mehar Vaani",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/d7/02/30d702fc-f1ff-e9da-a60c-29d8bb11e6dc/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/63/ab/4363ab96-60d2-9c56-d1c5-d8197c873bc6/mzaf_6253823696043401171.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Munda Sardaran Da (feat. Sweetaj Brar)",
+    "artistName": "Jordan Sandhu",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c0/1e/5b/c01e5b4e-191b-94d3-d047-472e0f69df45/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/22/e8/ce/22e8ce50-53b6-27cc-2f05-4a683c2c442c/mzaf_17431838353267968802.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Sun Sohniye (From \"Afsar\")",
+    "artistName": "Ranjit Bawa, Nimrat Khaira, Arjan Dhillon & Jaidev Kumar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/03/ca/0703ca27-4b09-9ee1-b54c-30cb92876de6/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3c/ad/9b/3cad9b91-5634-e206-f27d-9c8f30f4ea40/mzaf_5275841336695206311.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Diljaniya",
+    "artistName": "Ranjit Bawa",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a1/75/c3/a175c3d9-e9fe-f09e-de0a-16d93fb73c2f/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b2/64/ed/b264edf8-549d-aa10-27dd-7c64013a9343/mzaf_7896356416814706341.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Tappe (feat. Gurlez Akhtar) [From \"Rabb Da Radio 2\"]",
+    "artistName": "Ranjit Bawa",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/55/6b/94/556b949d-bf17-5c2e-898e-d1999d73cec2/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/80/1b/a9/801ba9a2-2bc9-c0a4-ed0a-c0fd57ca5921/mzaf_8461463152879461112.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Pasand Jatt Di (From \"Qismat\")",
+    "artistName": "Sukh-E Muzical Doctorz & Ammy Virk",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/30/2a/4f/302a4f42-9383-9a88-9169-37428bd6c946/193483024585_1_1.jpg/100x100bb.jpg",
+    "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video118/v4/82/f8/97/82f8979a-d807-67b8-2b29-7e97de57aa70/mzvf_1651815514328162063.1920w.h264lc.U.p.m4v",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Star (feat. Sukhe)",
+    "artistName": "B Jay Randhawa",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/38/63/b3/3863b3b6-c7e6-7693-a5c6-2f907a6a4345/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c6/57/ca/c657ca08-67d7-ab3b-fbef-554f2ee762dd/mzaf_10839597490910999805.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Sakhiyaan",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/63/92/64/639264fa-9cc1-ffe3-cfd0-4cb53f99057e/3615936580723_1_01.jpg/100x100bb.jpg",
+    "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video114/v4/ab/e5/9e/abe59ed0-7a99-0b61-88c0-20a40af3b010/mzvf_3745460336000931863.1920w.h264lc.U.p.m4v",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Ik Tera",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/c5/7e/3b/c57e3be8-5e3e-ed19-a88a-872e26b7cc87/3616401004614_1_01.jpg/100x100bb.jpg",
+    "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video113/v4/f1/16/2d/f1162dd1-636c-ed84-4825-237508b0769e/mzvf_867778445953790833.1920w.h264lc.U.p.m4v",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Laare",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/6b/4f/c9/6b4fc9dd-7f79-478f-8975-9371044580b4/3616403866548_1_01.jpg/100x100bb.jpg",
+    "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video114/v4/76/67/e7/7667e782-6d97-e118-65ea-3c8b023fc5eb/mzvf_1739366637705020159.1920w.h264lc.U.p.m4v",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Pani Di Gal",
+    "artistName": "Maninder Buttar & Asees Kaur",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/a3/11/7b/a3117b22-628a-1da2-264b-824c8a1f20ee/3616555869480_1_01.jpg/100x100bb.jpg",
+    "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/5f/9c/4f/5f9c4fe9-bb75-00f0-de8d-0f1213961ba5/mzvf_16543713183095461960.1920w.h264lc.U.p.m4v",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Tutt Chali Yaari",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/ec/69/71/ec697106-8f7f-8b90-a232-5f4207f144ce/3616405791848_1_01.jpg/100x100bb.jpg",
+    "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video113/v4/21/9d/18/219d1867-244f-688d-33b6-2ce2e685934b/mzvf_2893693984773924661.1920w.h264lc.U.p.m4v",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Jamila",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/0a/6b/c6/0a6bc666-af16-2a3c-38ac-3f8179b63b1a/3615938597323_1_01.jpg/100x100bb.jpg",
+    "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video113/v4/f0/ae/86/f0ae86c0-2339-3e70-7239-5eb86f9be97e/mzvf_1640591347831084658.1920w.h264lc.U.p.m4v",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Ik Ik Pal",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/bf/91/78/bf9178e7-5cb1-8bbd-b154-3fc7949dbbb4/3615937921815_1_01.jpg/100x100bb.jpg",
+    "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video113/v4/5c/0d/5a/5c0d5a09-7ff2-fc32-5f80-dcc7833e520e/mzvf_5965342506881504676.1920w.h264lc.U.p.m4v",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Kaali Hummer",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/e5/d6/dce5d62f-0c2a-38b9-ba3c-bd5cc9438ba9/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d0/15/58/d01558b1-1937-f8c0-0d32-d9cc0dc78bfe/mzaf_17764973408348641596.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "K3 (Kaali Kaali Kurti)",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/f3/00/24/f3002466-3c39-997b-a6d3-46fe0b9dc4a0/3616556318802_1_01.jpg/100x100bb.jpg",
+    "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/eb/fa/cd/ebfacd94-ba5f-42ab-74b6-1fe719678ef6/mzvf_11074218305356778557.1920w.h264lc.U.p.m4v",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Sakhiyaan Club Mix (Club Mix)",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/6b/cf/4e6bcf14-1b82-a97b-1238-8587a7f2e0b2/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b0/c5/39/b0c53994-7b7e-40c0-2585-1abe72c77e97/mzaf_2708956400768632305.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "About You",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4b/c6/4a/4bc64aab-3184-b088-ce96-3e0ad27004da/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/69/9b/fb/699bfbf5-d2e0-6ac9-8b0e-5517b4d6f6e0/mzaf_7088694267713835750.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Morey Saiyaan Ji",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/a3/ee/dca3ee6a-fe89-d448-8bd0-1ae63acbdb3b/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/11/f4/4b/11f44b90-c401-3e5a-d9aa-7601abf39cbd/mzaf_16671669891138310443.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Sakhiyaan (Remix Version)",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/07/a4/9c07a45b-1460-a8d1-0eb9-d2a7cc7f35cb/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/da/3f/a8/da3fa8bc-b0e7-2c94-9e19-82ca0d4d2761/mzaf_11883541063458827230.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Kol Hove",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/41/13/f941132c-2046-8329-db68-5c0aebee9390/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/18/9e/ab/189eab2e-73a7-c41f-59c6-b99b1e18e376/mzaf_14177738829903017709.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Cloud 9",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ce/a2/c1/cea2c153-2763-c171-ea01-18cb796641d8/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1d/6d/7a/1d6d7acf-9683-0976-9e02-7d21e6b093c7/mzaf_799782913310808556.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Holi Mashup 2022",
+    "artistName": "Khan Bhaini, Sidhu Moose Wala, Baani Sandhu & Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/2a/3b/a42a3b69-cc96-5e66-cea6-7600540d955b/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/6f/d4/95/6fd495f1-3f6a-8626-b53e-ab31461b9b3e/mzaf_3039877975746093690.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Sirre Di Rakaan (feat. Sultaan)",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4b/c6/4a/4bc64aab-3184-b088-ce96-3e0ad27004da/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/57/0a/ec/570aeca3-2797-5bce-7acc-fa149545c3e6/mzaf_12458469713371413290.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Sakhiyaan (Remix)",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/6f/ba/a26fba6d-4e8f-9fec-5f92-049de693ff6a/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b8/d9/8d/b8d98d3d-4319-57cd-108c-3d54a2b1cdd1/mzaf_1116554448805455696.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Pani Di Gal (Remix)",
+    "artistName": "Maninder Buttar & Asees Kaur",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/b0/48/5fb048e2-31fa-65ce-a0c7-e8296f4705e1/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/49/23/91/49239114-886c-85e7-4bed-3f05765bcad6/mzaf_5420134267978398832.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Teri Meri Ladayi (feat. Akasa)",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/5b/b2/42/5bb24255-f453-06e9-0529-b1e0892b1b82/3616408082417_1_01.jpg/100x100bb.jpg",
+    "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video114/v4/5d/49/4f/5d494fb9-922a-cb81-a26a-47cbfd31922b/mzvf_16890859835387399566.1920w.h264lc.U.p.m4v",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Kali Hummer",
+    "artistName": "Maninder Buttar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/e0/bf/51/e0bf51c0-29ba-3096-e6b9-fcaf5adeb083/3616407423075_1_01.jpg/100x100bb.jpg",
+    "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video114/v4/38/4d/10/384d107f-7483-0e96-28e2-04abb8a5dd77/mzvf_13661524208339988909.1920w.h264lc.U.p.m4v",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Supne",
+    "artistName": "Akhil",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/00/e2/0a/00e20a6c-0870-05d7-e062-cddb5ecc2b46/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/31/83/30318300-b780-b452-1af4-c62ef0d338de/mzaf_7525387507648902278.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Nazar",
+    "artistName": "Akhil",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d0/61/6f/d0616f1d-a83a-79e6-80a5-ea6c4543f668/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/6c/a1/af/6ca1afb7-3c6f-2981-b5ea-d78d7841875d/mzaf_15458025869312232261.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Sweetu",
+    "artistName": "Diljit Dosanjh, Jatinder Shah & Ikka",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/a3/f9/45a3f908-53c2-a9b1-b089-e85a5fd8645e/8902633362512.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/ba/14/15ba14df-9f0f-0a0c-5d0e-8c8126e6d944/mzaf_7514808757728216178.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Woofer",
+    "artistName": "Deep Kalsi & KR$NA",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/d5/53/7ad5533c-f15f-c1ab-5f5d-1f83a00a09bb/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/85/4c/79/854c7989-aa84-e979-1993-bcb03a1ba7e8/mzaf_10813593794344734959.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Sher (feat. Kr$na, Harjas & Karma)",
+    "artistName": "Deep Kalsi",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/37/b4/5d/37b45d88-89fa-f361-7dc7-1f2de9a67811/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/45/95/d7/4595d7fe-a8a5-6ff2-41dd-1a751b2f1291/mzaf_14658373509384417076.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Woofer 2 (feat. Kr$na)",
+    "artistName": "Deep Kalsi",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cd/10/90/cd1090e2-14bd-f569-2b87-8c3e84e71525/cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/68/ef/0b/68ef0b9c-e83b-7ef5-528c-0202c4157319/mzaf_5583332721480713503.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Kiliye Kiliye (Afrobeat Mix)",
+    "artistName": "S. Janaki, Ilaiyaraaja & Poovachal Khader",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/bf/6a/bdbf6a73-6d57-b78f-2cfa-c71333e316d8/198391929243.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/cc/af/1bccafff-03d4-2225-d0a3-d8f3511e5369/mzaf_10203634211015323938.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Chandra Chooda (Keerthanam)",
+    "artistName": "Purandaradasa & Anoop Sankar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/71/5d/fd/715dfd59-3f69-d776-0067-7db719b0219a/197189097737.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f0/11/7e/f0117e5a-e758-f764-c2f8-8996d00f9865/mzaf_16239950564304364732.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Nenjile (From \"Chatha Pacha: The Ring Of Rowdies\")",
+    "artistName": "Shankar Mahadevan, Vijay Yesudas, Anoop Sankar, Shankar Ehsaan Loy & Vinayak Sasikumar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/bf/ed/d4bfed31-4b18-2d32-0a8e-4232511d5040/8903431175946_cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/40/a1/ba/40a1ba97-477e-4864-6f55-c2f8c1434f82/mzaf_17217326084742337415.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Nenjile",
+    "artistName": "Shankar Ehsaan Loy, Shankar Mahadevan, Vijay Yesudas, Anoop Sankar & Vinayak Sasikumar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/bf/dd/d3bfddea-a3b3-cd71-fcf0-a872a288eb4c/8903431125088_cover.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/c0/43/edc043c3-82e4-e510-aea8-1c69f20290d0/mzaf_4451172571219415670.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Chandrachooda (Deep Lofi)",
+    "artistName": "Anoop Sankar, Navneeth Sundar & Purandaradasa",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/9b/e9/239be9fd-27b1-37d5-df1c-158c0345f365/198588326671.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/65/7f/60657fce-68ae-fa7b-df23-3d24f2c5371a/mzaf_9210422315347788878.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Sivam Sivakaram",
+    "artistName": "Shibu Chakravarthy & Anoop Sankar",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/71/5d/fd/715dfd59-3f69-d776-0067-7db719b0219a/197189097737.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8e/30/75/8e30752d-c97d-54ad-8168-2de08dee3e64/mzaf_7977817234488932073.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Tham Tharikida, Pt. 1",
+    "artistName": "G. Venugopal, Vidhu Prathap, Anoop Sankar & S. Ramesan Nair",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fc/2f/91/fc2f9187-e2c7-6b82-0ef9-fc8264da3349/191773249199.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/11/9c/41119c66-c3da-753b-c95e-2e652b8c3605/mzaf_18440388084682113337.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Emo Emo (From \"Raahu\")",
+    "artistName": "Sid Sriram, Praveen Lakkaraju & Srinivasa Mouli",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/ad/e1/75ade1a0-3cc3-37dd-23d3-0fc33412da9e/3616402091637.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1f/d9/a8/1fd9a831-7b36-fc76-c817-9a494868c0f3/mzaf_11983372620501758521.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  },
+  {
+    "trackName": "Mella Mellagaa",
+    "artistName": "Sid Sriram, Aditi Bhavaraju, Krishna Kanth & Judah Sandhy",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/34/7e/51347ea8-5a0c-8ea0-9461-2a7bfd6aa21c/3616401868209.jpg/100x100bb.jpg",
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/2b/25/732b2527-aed0-91f5-3e1e-af3d1b00ac55/mzaf_4834898778535873019.plus.aac.p.m4a",
+    "genre": "Regional Indian"
+  }
+]
